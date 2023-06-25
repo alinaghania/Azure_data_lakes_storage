@@ -2,8 +2,8 @@
 
 => The goal of this lab is to import all the files in an azure data lake storage
 
-**# IMPORTANT **
-**  I can't use Azure Data Lake storage because I've run out of student loans. So I can't create resources**
+# IMPORTANT
+# I can't use Azure Data Lake storage because I've run out of student loans. So I can't create resources**
 
 
 # Install the required packages: 
